@@ -27,7 +27,7 @@ Upload an audio file named `wedding-music.mp3` to the repository root. The music
 - Wedding: Friday, 18 December 2026, 4:00 PM
 - Ceremony: CSI Wesley Church, Clock Tower, Secunderabad
 - Reception: Sri Raja Rajeshwari Convention, Bowenpally, Secunderabad
-- Reception time: intentionally marked "Time to be announced" because no time was supplied
+- receptionTime: "07:00 PM onwards",
 - RSVP: WhatsApp +91 9063219894
 
 The site uses plain HTML, CSS and JavaScript; no build tools or paid hosting are required for GitHub Pages.
